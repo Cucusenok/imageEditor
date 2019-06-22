@@ -19,7 +19,7 @@ class ImageHandler
 
 
     public static  function saveImage($image, $imageName){
-
+        
         Storage::disk('userImages')->put($imageName, $image); //save file(check full path in config)
     }
 
