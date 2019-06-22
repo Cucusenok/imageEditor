@@ -1,5 +1,5 @@
 # imageEditor
-Simple image editor with Vue and Laravel
+Simple image editor with Vue + Vuefity and Laravel
 
 
 <h1>_INSTALING Laravel packages_</h1>
